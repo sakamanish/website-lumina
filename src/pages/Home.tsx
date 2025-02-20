@@ -10,8 +10,9 @@ const carouselImages = [
     url: luminanew,
     title: "Transformer Installation",
     style: {
-      width: "80%",
-      height: "80px",  // Adjust height as needed
+      width: "60%",
+      height: "50px",  // Adjust height as needed
+      //
       objectFit: "cover", // Ensures the image fills the space properly
       borderRadius: "10px" // Optional rounded corners
     }
