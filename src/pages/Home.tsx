@@ -11,7 +11,7 @@ const carouselImages = [
     title: "Transformer Installation",
     style: {
       width: "80%",
-      height: "300px",  // Adjust height as needed
+      height: "80px",  // Adjust height as needed
       objectFit: "cover", // Ensures the image fills the space properly
       borderRadius: "10px" // Optional rounded corners
     }
