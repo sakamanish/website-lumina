@@ -5,7 +5,7 @@ import useEmblaCarousel from 'embla-carousel-react';
 
 const carouselImages = [
   {
-    <img id="myImage" src="luminanew.jpg" alt="Image">
+    url: "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?auto=format&fit=crop&w=1200&h=600",
 
     title: "Transformer Installation"
   },
