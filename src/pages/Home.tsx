@@ -5,7 +5,7 @@ import useEmblaCarousel from 'embla-carousel-react';
 
 const carouselImages = [
   {
-    url: "https://www.google.com/imgres?q=hd%20images&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F052%2F248%2F075%2Fsmall_2x%2Fpeacock-feather-wallpaper-hd-wallpaper-photo.jpeg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Fwallpaper-hd&docid=6O5LZv-ARmAbaM&tbnid=9W8GwtHcWwF4cM&vet=12ahUKEwiqt4an0tKLAxXUSGwGHcVYGZUQM3oECBUQAA..i&w=714&h=400&hcb=2&ved=2ahUKEwiqt4an0tKLAxXUSGwGHcVYGZUQM3oECBUQAA",
+    url: "/src/pages/luminanew.jpg",
 
     title: "Transformer Installation"
   },
