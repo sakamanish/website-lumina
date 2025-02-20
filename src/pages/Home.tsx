@@ -8,7 +8,13 @@ import luminanew from '../pages/luminanew.jpg';
 const carouselImages = [
   {
     url: luminanew,
-    title: "Transformer Installation"
+    title: "Transformer Installation",
+    style: {
+      width: "100%",
+      height: "400px",  // Adjust height as needed
+      objectFit: "cover", // Ensures the image fills the space properly
+      borderRadius: "10px" // Optional rounded corners
+    }
   },
   {
     url: "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?auto=format&fit=crop&w=1200&h=600",
