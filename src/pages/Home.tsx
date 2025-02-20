@@ -2,11 +2,12 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { Zap, Shield, PenTool as Tool, Clock, CheckCircle, Award, Users, Briefcase } from 'lucide-react';
 import useEmblaCarousel from 'embla-carousel-react';
+import luminanew from '../pages/luminanew.jpg';
+
 
 const carouselImages = [
   {
-    url: require('../pages/luminanew.jpg')
-
+    url: luminanew,
     title: "Transformer Installation"
   },
   {
