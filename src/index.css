@@ -52,3 +52,14 @@
   flex: 0 0 100%;
   min-width: 0;
 }
+
+
+/* for css of images*/
+
+
+
+.carousel img {
+  width: 100%;   /* Ensures the image takes the full width */
+  height: auto;  /* Maintains aspect ratio */
+  object-fit: cover; /* Ensures it covers the container without distortion */
+}
